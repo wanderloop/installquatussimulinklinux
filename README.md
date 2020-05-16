@@ -1,4 +1,4 @@
-# Install Modelsim on Ubuntu (The Easy Way)
+# Install Modelsim and Integrate it with Quartus on Ubuntu (The Easy Way)
 
 This repo presents a simplified method to setup Modelsim on Ubuntu. Just have to follow the steps given below.
 
